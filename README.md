@@ -1,4 +1,4 @@
-# Invasores Espaciais
+# SPACE INVADERS
 
 Invasores Espaciais é um jogo de estilo arcade clássico onde os jogadores controlam uma nave espacial para defender contra ondas de invasores alienígenas. O objetivo é destruir os inimigos enquanto evita seus ataques.
 
